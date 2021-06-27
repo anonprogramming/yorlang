@@ -1,5 +1,6 @@
 const helperIseDeclarations = {};
 helperIseDeclarations["ka"] = require("./array_helpers/ka.js");
+helperIseDeclarations["siwo"] = require("./array_helpers/siwo.js");
 helperIseDeclarations["siLetaNla"] = require("./string_helpers/si_leta_nla.js");
 helperIseDeclarations["siLetaKekere"] = require("./string_helpers/si_leta_kekere.js");
 helperIseDeclarations["waNinu"] = require("./string_helpers/wa_ni_nu.js");
